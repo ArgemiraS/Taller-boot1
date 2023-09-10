@@ -1,0 +1,9 @@
+header{
+   background-color: gray;
+   height: 10vh;
+   justify-content: space-between;
+   align-items: center;
+}
+.logo{
+    height: 10vh;
+}
