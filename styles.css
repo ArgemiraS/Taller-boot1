@@ -1,0 +1,64 @@
+body{
+   
+   height: 100%;
+   margin: 0;
+   padding: 0;   
+}
+
+header{
+   background-color: grey;
+   height: 10vh;
+   justify-content: space-between;
+   align-items: center;
+}
+
+main{
+
+   height: 80vh;
+
+
+}
+
+section.resistencia{
+   height: 10vh;
+   width: 30hv;
+   display:inline;
+   border: 1vh;
+  
+} 
+
+
+section{
+
+   display: inline-block;
+   border: 1px solid red; 
+
+}
+.resistencia{
+
+   width: 30vh;
+   
+
+}
+.logo{  
+   
+   height: 10vh;
+}
+.envio{
+
+   height: 10vh;
+   margin-left: 115vh;
+}
+
+nav{
+
+   color: black;
+   text-align: right;
+   
+}
+footer{
+   background-color: blue;
+    width:auto;
+    height: 10vh;
+}
+
