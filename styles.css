@@ -14,12 +14,13 @@ header {
 
 main {
   position: relative;
-  width: 100%;
+  width: 85%;
   max-width: 100%;
-  margin: 0%;
+  margin: auto;
   padding: 0%;
   text-align: center;
   background-color: #FBEEE6;
+  float: right;
 }
 h1 {
   color: #C63D2F;
@@ -132,4 +133,30 @@ main section nav ul li {
 main section nav ul li a{
   color: white;
   text-decoration: none;
-  }
+
+}
+
+#lado_izquierdo{
+  height: 1200px;
+  width: 15%;
+  background-color: grey;
+  float: left;
+}
+
+.lado_izquierdo nav a{
+  background-color: grey;
+  color: white;
+  padding: 50px;
+  display: block;
+  text-decoration: none;
+  text-align: left;
+  overflow: hidden;
+}
+
+.lado_izquierdo nav a:hover{
+  background-color: white;
+  color: black;
+  margin: auto;
+  overflow: hidden;
+
+}
